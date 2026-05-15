@@ -29,6 +29,7 @@ class TestAdapters:
         "ignore_exceptions",
         "strict_http",
         "request_header",
+        "env_headers",
     )
 
     INTERNAL_KWARGS = (
